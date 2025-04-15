@@ -9,4 +9,4 @@ Adjective: sad<br>
 Place: forest<br>
 
 The program might generate a sentence like<br>
-"The forest can be a sad place for an ant when it rains"
+<i>"The forest can be a sad place for an ant when it rains"</i>
