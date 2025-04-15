@@ -1,5 +1,5 @@
-### Rock Paper Scissors<hr>
-This tutorial will guide you through creating a Rock Paper Scissors game using Python!
+## Rock, Paper, Scissors
+#### Play this in your code editor terminal. My favorite editor is VS Code<hr>
 
 By the end, you’ll have a working game where the user plays against the computer in an interactive, score-tracking version of Rock Paper Scissors.
 
