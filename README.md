@@ -6,3 +6,5 @@ All of them will range from beginner to intermediate to advanced over time. This
 Python<br>
 Go<br>
 Javascript<br>
+
+***Prerequisites will be given if needed for each project. IF they aren't listed in the README.md file, let me know so that I can add it***
