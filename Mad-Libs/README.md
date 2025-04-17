@@ -5,11 +5,11 @@ A Mad Libs game asks the user for different kinds of words (like nouns, adjectiv
 For example:
 If the user gives these words:
 
-Noun: ant
+- Noun: ant
 
-Adjective: sad
+- Adjective: sad
 
-Place: forest
+- Place: forest
 
 The game might create a sentence like:
 “The forest can be a sad place for an ant when it rains.”
