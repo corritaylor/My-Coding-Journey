@@ -6,12 +6,12 @@ In this project, you'll make a command-line tool that checks how strong a passwo
 
 What you’ll learn:
 
-How to check if a password is strong
+- How to check if a password is strong
 
-What entropy means for password security
+- What entropy means for password security
 
-How to hide password input using getpass
+- How to hide password input using getpass
 
-How to check that the password has different types of characters
+- How to check that the password has different types of characters
 
-How to run the tool more than once using a loop
+- How to run the tool more than once using a loop
