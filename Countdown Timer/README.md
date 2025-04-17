@@ -2,12 +2,16 @@
 
 #### View and execute in your code editor terminal. My favorite editor is VS Code<hr>
 
-This step-by-step guide will help you build a simple yet enhanced timer using Python that displays minutes and seconds, provides a countdown animation, and alerts the user when the countdown reaches zero.
+This guide will show you how to make a timer in Python that counts down in minutes and seconds, shows the countdown on screen, and alerts you when time’s up.
 
-What You Will Learn:
+What you’ll learn:
 
--   Working with the time module for delays
--   Formatting time properly using divmod()
--   Using loops and conditions for real-time updates
--   Adding a beeping sound for better alerts
--   Creating an interactive experience with user input
+- How to use the time module to create delays
+
+- How to format time using divmod()
+
+- How to use loops and if-statements to update the timer
+
+- How to add a beeping sound when the timer ends
+
+- How to let the user enter their own time to count down
