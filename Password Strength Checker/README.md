@@ -2,12 +2,16 @@
 
 #### View and execute in your code editor terminal. My favorite editor is VS Code<hr>
 
-This project will guide you through building a command-line tool that evaluates the strength of a password based on entropy, length, and character diversity.
+In this project, you'll make a command-line tool that checks how strong a password is by looking at its length, how random it is (entropy), and the types of characters it uses.
 
-What You Will Learn:
+What you’ll learn:
 
--   Understanding password strength evaluation
--   Using entropy for password security analysis
--   Implementing getpass for secure password input
--   Validating user input and character diversity
--   Creating a loop for multiple checks
+How to check if a password is strong
+
+What entropy means for password security
+
+How to hide password input using getpass
+
+How to check that the password has different types of characters
+
+How to run the tool more than once using a loop
