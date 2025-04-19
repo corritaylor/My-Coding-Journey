@@ -1,4 +1,3 @@
-```markdown
 # 📱 QR Code Generator (Python + Tkinter)
 
 A simple and useful Python app that lets you generate QR codes from links or text — with a clean graphical interface built using **Tkinter**.
