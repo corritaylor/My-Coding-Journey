@@ -1,4 +1,3 @@
-```markdown
 # 🔐 Password Strength Checker (Python)
 
 A command-line tool that checks how strong your password is — based on length, character variety, and randomness (entropy).
@@ -33,9 +32,9 @@ This tool takes a user’s password and evaluates how secure it is. It checks:
 1. Open your favorite code editor (like [VS Code](https://code.visualstudio.com/))  
 2. Copy the code into a `.py` file  
 3. Run it in your terminal:
-   
+   ```bash
    python password_checker.py
-
+   ```
 4. Type in your password when prompted (don’t worry — it’ll be hidden!)  
 5. See the feedback and try different passwords if you like
 
