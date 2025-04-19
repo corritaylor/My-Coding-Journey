@@ -43,6 +43,6 @@ Let’s get started!
 <b>Pillow</b> (PIL) for displaying the generated QR code.
 
 If you don't have all of these yet, you can easily install them with this command in your terminal on you rlocal computer (not your editor):
-```
+```bash
 pip install qrcode pillow
 ```
