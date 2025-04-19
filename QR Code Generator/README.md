@@ -1,6 +1,6 @@
 ## QR Code Generator
 
-#### View and execute in your code editor terminal. My favorite editor is VS Code<hr>
+#### Execute in your code editor terminal. My favorite editor is VS Code! When you run this program in your terminal, Tkinter will open.<hr>
 
 Have you ever wanted to make a QR code for your website, contact info, or a secret message?
 
