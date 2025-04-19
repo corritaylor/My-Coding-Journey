@@ -1,4 +1,3 @@
-```markdown
 # 🎉 Mad Libs Game in Python
 
 A fun and interactive Python game where **you** create a silly story by filling in the blanks with your own words!
@@ -31,9 +30,9 @@ You might get a sentence like:
 1. Open your favorite code editor (I recommend [VS Code](https://code.visualstudio.com/))  
 2. Paste the script into a `.py` file  
 3. Open your terminal and run the game:
-
+   ```bash
    python mad_libs.py
-
+   ```
 4. Follow the prompts and enjoy the story you help create!
 
 ---
@@ -47,4 +46,3 @@ You might get a sentence like:
 ---
 
 Have fun and keep coding creatively! 🧠✨
-```
