@@ -1,4 +1,3 @@
-```markdown
 # ⏳ Python Countdown Timer
 
 A simple and customizable countdown timer built with Python — perfect for productivity, workouts, or study sessions.
