@@ -7,8 +7,8 @@ A fun and interactive Python game where **you** create a silly story by filling 
 
 ## 🕹️ How It Works
 
-This Mad Libs game asks the user for different types of words — like nouns, adjectives, and places — and then uses them to build a
-unique, often hilarious story.
+This Mad Libs game asks the user for different types of words — like nouns, adjectives, and places — and then uses them
+to build a unique, often hilarious story.
 
 ---
 
