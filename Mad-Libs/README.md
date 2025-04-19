@@ -7,7 +7,8 @@ A fun and interactive Python game where **you** create a silly story by filling 
 
 ## 🕹️ How It Works
 
-This Mad Libs game asks the user for different types of words — like nouns, adjectives, and places — and then uses them to build a unique, often hilarious story.
+This Mad Libs game asks the user for different types of words — like nouns, adjectives, and places — and then uses them to build a
+unique, often hilarious story.
 
 ---
 
@@ -30,9 +31,10 @@ You might get a sentence like:
 1. Open your favorite code editor (I recommend [VS Code](https://code.visualstudio.com/))  
 2. Paste the script into a `.py` file  
 3. Open your terminal and run the game:
-   ```bash
-    python mad_libs.py
-   ```
+
+   python mad_libs.py
+
+4. Follow the prompts and enjoy the story you help create!
 
 ---
 
