@@ -48,4 +48,3 @@ This beginner-friendly project will help you practice:
 ---
 
 Simple, fun, and a great way to learn Python basics! Keep playing and keep coding 🧠💻
-```
