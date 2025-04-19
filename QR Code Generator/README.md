@@ -2,8 +2,6 @@
 
 #### Execute in your code editor terminal. My favorite editor is VS Code! When you run this program in your terminal, Tkinter will open.<hr>
 
-Have you ever wanted to make a QR code for your website, contact info, or a secret message?
-
 In this tutorial, you’ll learn how to create a Python program that makes QR codes easily. By the end, you’ll have a simple app with a user-friendly interface where you can type in a link and get a QR code with just a few clicks.
 
 This beginner-friendly project will show you how to use Python tools for making images and building a basic app window.
