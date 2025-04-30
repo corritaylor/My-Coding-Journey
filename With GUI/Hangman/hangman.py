@@ -7,7 +7,7 @@ class HangmanGame:
       self.master.title("Hangman Game")
       self.master.geometry("900x650")
       self.master.configure(bg='light blue')
-      self.word_list = ["PYTHON", "JAVASCRIPT", "KOTLIN", "JAVA", "RUBY", "SWIFT"]
+      self.word_list = ["PYTHON", "JAVASCRIPT", "KOTLIN", "JAVA", "RUBY", "SWIFT", "HTML", "TIGER", "BEAR"]
       self.secret_word = self.choose_secret_word()
       self.correct_guesses = set()
       self.incorrect_guesses = set()
