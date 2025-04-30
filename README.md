@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# My-Coding-Journey
-=======
 # 🌱 My Coding Journey (2025 Edition)
 
 Welcome to my personal coding portfolio!  
@@ -103,4 +100,3 @@ Feel free to **fork, star, or clone** this repo if you’d like to learn from it
 ---
 
 **Let’s keep growing together. Happy coding! 💻✨**
->>>>>>> master
