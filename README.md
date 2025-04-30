@@ -70,6 +70,7 @@ Most projects will include their own `README.md` file with installation instruct
 |  📁 without-GUI
 |   ├── countdown_timer/
 |   ├── mad_libs_game/
+|   ├── password_generator
 |   ├── password_strength_checker/
 |   ├── rock_paper_scissors/
 └── README.md
