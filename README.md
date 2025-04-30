@@ -62,7 +62,10 @@ Most projects will include their own `README.md` file with installation instruct
 ```
 📁 my-coding-journey/
 |  📁 with-GUI
+|   ├── hangman/
+|   ├── pacman/
 |   ├── qr_code_generator/
+|   ├── tic-tac-toe/
 |   ├── url_shortener_pyqt/
 |  📁 without-GUI
 |   ├── countdown_timer/
